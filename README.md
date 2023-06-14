@@ -1,16 +1,11 @@
 # expense_tracker
 
-A new Flutter project.
+A new Flutter mobile app that is used to add and track your expenses. A bar graph is also added as a feature to vissually track your expenses.
 
-## Getting Started
+## Screens
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/sangeetkarthecoder/ExpenseTracker/assets/103964385/93cbc97d-3a42-4cc1-a83d-000b7f36a74b)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/sangeetkarthecoder/ExpenseTracker/assets/103964385/b84ba101-9c24-4086-95f6-b8f82e775c16)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/sangeetkarthecoder/ExpenseTracker/assets/103964385/a67d1842-5cf4-437d-952f-1b5b09dec00b)
